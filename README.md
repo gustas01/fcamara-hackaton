@@ -58,6 +58,22 @@ JWT_AUDIENCE=
 
 # O ID da aplicação criada no site do Imgur onde ficarão armazenadas as imagens enviadas para dentro do projeto.
 Client_ID_Imgur=
+
+# Dominio onde está hospedado o client (frontend)
+Client_Domain=http://localhost:5173
+
+# Dominio onde está hospedado este projeto
+Host_Domain=http://localhost:3001
+
+# ID do clinete imgur para upload das imagens
+Client_ID_Imgur=819ad8019235ea0
+
+# ID do cliente do google para o login (oauth with google)
+Client_ID_Google=
+
+# Secret key encontrada no mesmo lugar do ID, e para o mesmo propósito
+Client_Secret_Google=
+
 ```
 
 2º passo - Com o terminal aberto na raiz do projeto, execute o comando `npm install` para que todas as dependências sejam baixadas.
