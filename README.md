@@ -60,13 +60,13 @@ JWT_AUDIENCE=
 Client_ID_Imgur=
 
 # Dominio onde está hospedado o client (frontend)
-Client_Domain=http://localhost:5173
+Client_Domain=
 
 # Dominio onde está hospedado este projeto
-Host_Domain=http://localhost:3001
+Host_Domain=
 
 # ID do clinete imgur para upload das imagens
-Client_ID_Imgur=819ad8019235ea0
+Client_ID_Imgur=
 
 # ID do cliente do google para o login (oauth with google)
 Client_ID_Google=
